@@ -1,5 +1,5 @@
 # Your code here
 
-def meal_choice(meal = "potatos")
-	return meal
-end 
+puts "What a nutritious meal!"
+puts "A plate of #{chicken} with #{asparagus} and #{cabbage}"
+end
